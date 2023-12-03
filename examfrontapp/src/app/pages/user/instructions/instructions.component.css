@@ -1,0 +1,19 @@
+.con
+{
+margin-left: 20px;
+}
+mat-card-subtitle
+{
+margin-top: 10px;
+font-weight: 100;
+}
+mat-card
+{
+    margin-left: 30px;
+    width: 80%;
+}
+button
+{
+    align-items: center;
+    margin-left: 400px;
+}

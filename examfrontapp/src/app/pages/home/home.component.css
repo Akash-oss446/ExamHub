@@ -1,0 +1,21 @@
+.f
+{
+    font-weight: 800;
+    font-size: xx-large;
+}
+.f1
+{
+ font-size: large; 
+ font-weight: 400; 
+ font-display: flex;
+ margin-top: 10px;
+}
+.f2
+{
+    margin-top: 80px;
+    font-size: x-large;  
+}
+h3{
+    text-align: center;
+    align-items: center;
+}
