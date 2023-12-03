@@ -1,9 +1,9 @@
 # ExamHub
 ExamHub-An exam portal is a digital platform designed to facilitate the management, administration, and conduct of examinations or assessments online.
 These portals are used by educational institutions, companies, or organizations to create, schedule, deliver, and evaluate exams
-Technologies Used
-Backend (Spring Boot):
 
+## Technologies Used
+## Backend (Spring Boot):
 Setup Spring Boot Project:
 Use Spring Initializr to create a new Spring Boot project.
 Include dependencies such as Spring Web, Spring Data JPA (for database interactions), Spring Security (for authentication and authorization), etc., depending on your requirements.
@@ -21,7 +21,7 @@ REST API Development:
 Create RESTful APIs to handle CRUD operations for exams, questions, user management, etc.
 Implement endpoints to retrieve and submit exam data.
 
-Frontend (Angular):
+## Frontend (Angular):
 Setting up Angular Project:
 Use Angular CLI to create a new Angular project.
 Set up necessary dependencies for routing, HTTP requests, forms, etc.
